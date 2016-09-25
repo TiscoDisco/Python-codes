@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 07, Problem 4
-##=======================================================
+
 
 ## churras(status, dice) prints churrascaria way of restaurents with its
 ##       positions as status and dice rolls as dice
