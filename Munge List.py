@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 06, Problem 2
-##=======================================================
+
 
 ## munge_list(listStr) substitute all occrrences of certain letters in with
 ##         the listStrnumber of special character based on the chart provided.
