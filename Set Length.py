@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 04, Problem 1
-##=======================================================
+
 
 ## set_length(s,n) produces a string that is made out of s. n is a number of
 ##   spaces that a output string should have. If n is larger than
