@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 05, Problem 2
-##=======================================================
+
 
 ## check_by_queen (queen_pos, king_pos) prduces "Check!!!" if king's position can be
 ##     attacked by the queen. Queen can moving infinite positions horizontally, vertically
