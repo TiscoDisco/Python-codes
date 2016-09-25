@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 04, Problem 1
-##=======================================================
+
 
 # min_dist (x1, y1, x2, y2, x3, y3) produces the shorstest distance for the
 #   firends hang over among the three houses. Each (x,y) represent the
