@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 07, Problem 2
-##=======================================================
+
 
 ## sym_tri_num(num) returns symmetric trinary number that has the length of
 ##                  num.
