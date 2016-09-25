@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 04, Problem 1
-##=======================================================
+
 
 #nth_prime (n) produces the nth prime number starting from 2.
 
