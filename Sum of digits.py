@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 04, Problem 1
-##=======================================================
+
 
 # sum_of_digits (x) produce the sum of each number in each digits.
 #    function takes out negative
