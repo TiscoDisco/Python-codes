@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 06, Problem 1
-##=======================================================
+
 
 ## find_all(s, sub) finds every indices in s where sub is found. The output
 ##           comes out as a list of Integers
