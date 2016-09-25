@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 07, Problem 3
-##=======================================================
+
 
 ## word_count(string) prints number of each word in string. Case sensitive.
 ##             print follows the format given in the assignment The output is
