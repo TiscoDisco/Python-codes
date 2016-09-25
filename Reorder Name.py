@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 04, Problem 1
-##=======================================================
+
 
 ## reorder_name(name) reorders the name received in the order of Last name,
 ##    First name, and if there is, a first letter of the middle name
