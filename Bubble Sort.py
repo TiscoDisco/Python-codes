@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 07, Problem 1
-##=======================================================
+
 
 ## bubble_sort(lst) sorts the numbers in lst in descending order. This uses
 ##                  bubble method introduced in the assignment
