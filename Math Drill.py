@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 06, Problem 3
-##=======================================================
+
 
 ## math_drill(listofQues) getting a listofQues consist of strings.
 ##        Each string is a mathmetical equation. If a input from
