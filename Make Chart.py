@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 06, Problem 4
-##=======================================================
+
 
 ## chart(data) consumes list of strings and integers data and prints a chart based
 ##             on the strings and integers
