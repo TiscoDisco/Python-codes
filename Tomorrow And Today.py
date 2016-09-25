@@ -1,8 +1,4 @@
-##=======================================================
-## Ryan Kim (20623928)
-## CS 116 Winter 2016
-## Assignment 05, Problem 1
-##=======================================================
+
 
 ## tomorrow (today) produces a string value of the day after today with a input
 ##    of today. If a string value does not belong in a week, produce unknown.
